@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# About me
+
+I’m currently a student at HCMUS
+
+## HEHE XD
+
 <!--
 **huynonstop/huynonstop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
