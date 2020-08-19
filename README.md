@@ -1,6 +1,8 @@
 # Welcome to my GitHub page👋,
 Hi there! I'm Huy, a developer from Viet Nam.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huynonstop&show_icons=true)  
+
 ## About me
 ### 🔭 I’m currently working on 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=HTML5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=CSS3&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=Docker&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=white" /> <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.JS-000000?style=flat-square&logo=Vue.JS&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=git&logoColor=white" />
@@ -20,8 +22,3 @@ Hi there! I'm Huy, a developer from Viet Nam.
 
 ## Some Github badges
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-## My stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huynonstop&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/huynonstop)  
