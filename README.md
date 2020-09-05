@@ -11,7 +11,6 @@ Hi there! I'm Huy, a developer from Viet Nam.
 
 ## My project
 - [Piggy bank (web 2 - 2020)](https://github.com/huynonstop/web2-2020)
-- [Chat app Sockect.io](https://github.com/huynonstop/chat-app-ws)
 - [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy)
 - [Burger-build](https://github.com/huynonstop/burger-build)
 - [Random question practice for Thach Thuc 2020](https://github.com/huynonstop/ThachThuc2020)
