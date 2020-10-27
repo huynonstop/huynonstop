@@ -14,7 +14,7 @@ Hi there! I'm Huy, a developer from Viet Nam.
 - [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy) (Solo)
 - [Burger-build](https://github.com/huynonstop/burger-build) (Solo)
 - [Random question practice for Thach Thuc 2020](https://github.com/huynonstop/ThachThuc2020)
-- [Tic-tac-toe game](https://github.com/huynonstop/ReactTicTacToe) 
+- [E-Cloth Shop](https://github.com/huynonstop/cloth-shop) 
 - [My note](https://github.com/huynonstop/FullstackDevNote)
 - [Chat App in 1 week](https://github.com/huynonstop/chat-app-ws) (Solo)
 
