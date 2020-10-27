@@ -9,7 +9,7 @@ Hi there! I'm Huy, a developer from Viet Nam.
 ### 🌱 I’m currently learning at HCMUS 
 ### 💖 I’m passionate about coding and computer games
 
-## My project
+## My public project
 - [Piggy bank](https://github.com/huynonstop/web2-2020) (Colab / Role: backend, frontend, system design)
 - [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy) (Solo)
 - [Burger-build](https://github.com/huynonstop/burger-build) (Solo)
