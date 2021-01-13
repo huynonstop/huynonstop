@@ -17,6 +17,7 @@ Hi there! I'm Huy, a developer from Viet Nam.
 - [E-Cloth Shop](https://github.com/huynonstop/cloth-shop) (Solo)
 - [My note](https://github.com/huynonstop/FullstackDevNote)
 - [Chat App in 1 week](https://github.com/huynonstop/chat-app-ws) (Solo)
+- [Leetcode solutions](https://github.com/huynonstop/GrindingLeetcode)
 
 ## Where to find me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/huynonstop)  [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tthuy99/)  [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt='facebook'>](https://www.facebook.com/huy.trantuan.716)  
