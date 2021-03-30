@@ -11,12 +11,12 @@ Hi there! I'm Huy, a developer from Viet Nam.
 
 ## My public repo
 - [Piggy bank](https://github.com/huynonstop/web2-2020) (Colab / Role: backend, frontend, system design)
-- [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy) (Solo)
-- [Burger-build](https://github.com/huynonstop/burger-build) (Solo)
+- [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy)
+- [Burger-build](https://github.com/huynonstop/burger-build)
 - [Random question practice for Thach Thuc 2020](https://github.com/huynonstop/ThachThuc2020)
-- [E-Cloth Shop](https://github.com/huynonstop/cloth-shop) (Solo)
+- [E-Cloth Shop](https://github.com/huynonstop/cloth-shop)
 - [My note](https://github.com/huynonstop/FullstackDevNote)
-- [Chat App in 1 week](https://github.com/huynonstop/chat-app-ws) (Solo)
+- [Chat App in 1 week](https://github.com/huynonstop/chat-app-ws)
 - [Leetcode solutions](https://github.com/huynonstop/GrindingLeetcode)
 
 ## Where to find me
