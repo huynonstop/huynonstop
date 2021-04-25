@@ -8,7 +8,7 @@ Hi there! I'm Huy, a developer from Viet Nam.
 ### 💖 I’m passionate about coding and computer games
 
 ## My public repo
-- [Piggy bank](https://github.com/huynonstop/web2-2020) (Colab / Role: backend, frontend, system design)
+- [Piggy bank](https://github.com/huynonstop/web2-2020)
 - [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy)
 - [Burger-build](https://github.com/huynonstop/burger-build)
 - [Random question practice for Thach Thuc 2020](https://github.com/huynonstop/ThachThuc2020)
