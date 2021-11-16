@@ -8,13 +8,13 @@ Hi there! I'm Huy, a developer from Viet Nam.
 ### 💖 I’m passionate about coding and computer games
 
 ## My public repo
-- [Piggy bank](https://github.com/huynonstop/web2-2020)
-- [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy)
-- [Burger-build](https://github.com/huynonstop/burger-build)
-- [Random question practice for Thach Thuc 2020](https://github.com/huynonstop/ThachThuc2020)
-- [E-Cloth Shop](https://github.com/huynonstop/cloth-shop)
-- [My note](https://github.com/huynonstop/FullstackDevNote)
-- [Chat App in 1 week](https://github.com/huynonstop/chat-app-ws)
+- [Stock trader app with VueJS](https://github.com/huynonstop/stock-trader-udemy): VueJS
+- [Burger-build](https://github.com/huynonstop/burger-build): ReactJS
+- [Random question practice for Thach Thuc 2020](https://github.com/huynonstop/ThachThuc2020): VanillaJS
+- [E-Cloth Shop](https://github.com/huynonstop/cloth-shop): ReactJS
+- [Piggy bank](https://github.com/huynonstop/web2-2020): NodeJS, VueJS
+- [Meta ball](https://github.com/huynonstop/metaball-canvas): Computer graphic seems fun
+- [My note](https://github.com/huynonstop/my-note)
 - [Leetcode solutions](https://github.com/huynonstop/GrindingLeetcode)
 
 ## Where to find me
